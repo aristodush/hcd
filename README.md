@@ -8,3 +8,8 @@ It contains
 - CSS
 - Firebase
 - Socket IO
+
+
+Hosted Version 25 first Users
+
+https://group9project.netlify.app/
