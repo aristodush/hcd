@@ -9,3 +9,9 @@ export const auth = firebase.initializeApp({
     messagingSenderId: "681292212582",
     appId: "1:681292212582:web:1b7fda6ec15b5d032b40a7"
 }).auth()
+
+
+
+//api to be used must come from ChatEngine
+//https://api.chatengine.io/user to retrieve users after adding headers
+// check chatengine.io to get RestFull api
